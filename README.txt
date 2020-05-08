@@ -1,3 +1,8 @@
+*******************************************************************
+This code was developed for Coursework Part 2: Racetrack coursework
+as part of CM50270 Reinforcement Learning module university of Bath
+*******************************************************************
+
 #purpose
 The model aim to solved Racetrack environment 
 by using 3 reinforcement learning agents consist 
